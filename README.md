@@ -1,4 +1,3 @@
 # LearningAAD
 
-Test config
 
