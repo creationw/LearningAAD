@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudServiceNoAuthentication", "AzureCloudServiceNoAuthentication\AzureCloudServiceNoAuthentication.ccproj", "{6AB46122-55D5-4A90-A496-1F67E81B4185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWeb", "HomeWeb\HomeWeb.csproj", "{D2084635-A481-4097-8E9B-FAE2A3EFE3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorker", "HomeWorker\HomeWorker.csproj", "{D6895C61-36A6-493C-988E-4578BF9AA47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB46122-55D5-4A90-A496-1F67E81B4185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB46122-55D5-4A90-A496-1F67E81B4185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB46122-55D5-4A90-A496-1F67E81B4185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB46122-55D5-4A90-A496-1F67E81B4185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2084635-A481-4097-8E9B-FAE2A3EFE3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2084635-A481-4097-8E9B-FAE2A3EFE3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2084635-A481-4097-8E9B-FAE2A3EFE3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2084635-A481-4097-8E9B-FAE2A3EFE3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6895C61-36A6-493C-988E-4578BF9AA47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6895C61-36A6-493C-988E-4578BF9AA47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6895C61-36A6-493C-988E-4578BF9AA47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6895C61-36A6-493C-988E-4578BF9AA47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
