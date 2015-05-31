@@ -12,7 +12,7 @@
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
     </ConfigurationSettings>
     <Endpoints>
-      <InputEndpoint name="Endpoint1" protocol="http" port="80" />
+      <InputEndpoint name="Endpoint1" protocol="https" port="44302" />
     </Endpoints>
   </WebRole>
   <WorkerRole name="HomeWorker" vmsize="Small">
